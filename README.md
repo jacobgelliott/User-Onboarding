@@ -63,3 +63,4 @@ The following are stretch goals that you should attempt _after_ you meet MVP for
 - [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
 
 Place holder for when i catch up, forgive me, i am trying.
+Still catching up, having major issues with comprehension, and todays class was very scattered, and hard for me to follow. Hoping this doesnt fail me, but i dont try and fake it, i gotta do what i can to catch up.
